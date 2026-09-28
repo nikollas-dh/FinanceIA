@@ -60,7 +60,7 @@ class _EditarPerfilScreenState extends State<EditarPerfilScreen> {
             children: [
               const CircleAvatar(
                 radius: 48,
-                backgroundImage: AssetImage('assets/images/avatar.png'),
+                backgroundImage: AssetImage('assets/images/user.png'),
               ),
               const SizedBox(height: 24),
               TextFormField(
